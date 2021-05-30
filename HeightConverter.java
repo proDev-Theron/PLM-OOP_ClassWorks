@@ -6,7 +6,7 @@ Block 3 - OOP
 Week 3 - Laboratory Exercise
 Write a Java program that demonstrates the use of Encapsulation.
 */
-import java.util.*; //For Scanner class dependency
+import java.util.Scanner; //For Scanner class dependency
 
 class HeightConverter {
     private static int feet, inches; // declared private variables
